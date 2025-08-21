@@ -1,4 +1,4 @@
 try:
     print(resultx)
 except NameError:
-    print("Variable no definida")
+    print("Error: Variable no definida")

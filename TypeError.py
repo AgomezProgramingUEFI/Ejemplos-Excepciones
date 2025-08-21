@@ -3,4 +3,4 @@ try:
     nombre2 = 25
     print(nombre1 + nombre2)
 except TypeError:
-    print("Hay un error en el tipo de dato")
+    print("Error: Hay un error en el tipo de dato")
